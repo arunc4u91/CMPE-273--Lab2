@@ -1,0 +1,4 @@
+flask
+flask-spyne
+spyne
+requests
